@@ -1,0 +1,16 @@
+{
+    "eamilFromName":"czhou@sfcservice.com",
+    "emailToName":"jhpan@sfcservice.com",
+    "emailTo":"jhpan@sfcservice.com",
+    "emailToCcName":[
+        "czhou@sfcservice.com"
+    ],
+    "emailCc":[
+        "czhou@sfcservice.com"
+    ],
+    "emailSubject":"Amazoninfo",
+    "emailBody":"test.txt",
+    "smtpServer":"smtp.exmail.qq.com",
+    "emailFromSend":"czhou@sfcservice.com",
+    "emailPassword":"CZhou741"
+}
