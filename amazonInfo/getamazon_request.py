@@ -8,7 +8,7 @@ from get_config import get_emailFromSend, get_emailPassword, get_smtpServer, get
 
 # retries重试次数
 def getIp(retries=5):
-    urlip = 'http://dynamic.goubanjia.com/dynamic/get/42db2545aa8eb940cd4f310407e1189c.html'
+    urlip = 'http://dynamicdffffffffffffgdsddddddd89c.html'
     s = requests.Session()
     # 设置重试次数
     s.mount('http://', HTTPAdapter(max_retries=5))
